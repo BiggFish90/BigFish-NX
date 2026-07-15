@@ -224,7 +224,7 @@ It helps the project grow and reach more users.
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/36618a74-8021-4312-85b3-22aba171f2c5" width="80">
 </p>
 
