@@ -1,7 +1,3 @@
-<p align="center">
-    <img src=".github/assets/banner.png" alt="BigFish-NX Banner" width="100%">
-</p>
-
 <h1 align="center">🐟 BigFish-NX</h1>
 
 <p align="center">
