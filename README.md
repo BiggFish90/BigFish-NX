@@ -57,22 +57,6 @@ Whether you're installing CFW for the first time or maintaining an existing Swit
 
 ---
 
-# 📷 Screenshots
-
-<p align="center">
-
-<img src=".github/assets/screenshot1.jpg" width="47%">
-<img src=".github/assets/screenshot2.jpg" width="47%">
-
-<br>
-
-<img src=".github/assets/screenshot3.jpg" width="47%">
-<img src=".github/assets/screenshot4.jpg" width="47%">
-
-</p>
-
----
-
 # 🚀 Installation
 
 ## Fresh Installation
@@ -242,7 +226,8 @@ It helps the project grow and reach more users.
 
 <p align="center">
 
-<img src=".github/assets/logo.png" width="110">
+<img src="<img width="1177" height="1336" alt="BF" src="https://github.com/user-attachments/assets/36618a74-8021-4312-85b3-22aba171f2c5" />
+" width="110">
 
 ## BigFish-NX
 
