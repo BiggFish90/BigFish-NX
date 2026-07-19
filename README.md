@@ -224,11 +224,6 @@ It helps the project grow and reach more users.
 
 ---
 
-<p align="left">
-  <img src="<img width="1178" height="1335" alt="icon" src="https://github.com/user-attachments/assets/e807e791-7b69-4df2-8dc0-05abd57f051d" />
-" width="80">
-</p>
-
 ## BigFish-NX
 
 **Clean. Stable. Modern.**
