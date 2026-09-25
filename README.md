@@ -20,3 +20,5 @@ Stable • Clean • Fast • Modern
 # 📖 About
 
 PERMANENTLY CLOSE THIS PROJECT!
+<img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/077c8fe8-8216-4461-ad66-8e8f8bd4aef7" />
+
